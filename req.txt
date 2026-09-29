@@ -1,0 +1,12 @@
+openai
+python-dotenv
+psycopg[binary]
+streamlit
+pandas
+sqlalchemy
+google-genai
+chromadb
+scikit-learn
+langchain-text-splitters
+pypdf
+chromadb
